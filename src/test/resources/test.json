@@ -1,0 +1,81 @@
+{
+  "from": 0,
+  "total": 3,
+  "sessions": [
+    {
+      "id": 0,
+      "name": null,
+      "appId": null,
+      "owner": null,
+      "proxyUser": null,
+      "state": "idle",
+      "kind": "shared",
+      "appInfo": {
+        "driverLogUrl": null,
+        "sparkUiUrl": null
+      },
+      "log": [
+        "20/07/17 17:33:29 INFO SparkContext: Added JAR file:/home/ahmed/.livy-sessions/044d309c-1386-4e2f-ab64-ab5dd7549a46/co.invenis.uvenix.iss.submissions.jar at spark://sylvanus:39453/jars/co.invenis.uvenix.iss.submissions.jar with timestamp 1595000009721",
+        "20/07/17 17:33:31 INFO RSCDriver: Received job request f9965a06-c04b-4e7c-8b25-29bfe09e5643",
+        "20/07/17 17:33:31 WARN SparkContext: Using an existing SparkContext; some configuration may not take effect.",
+        "20/07/17 17:33:31 INFO SparkContext: Added file /tmp/tmp66i1z_jo/__livy__/Exports.jar at file:/tmp/tmp66i1z_jo/__livy__/Exports.jar with timestamp 1595000011921",
+        "20/07/17 17:33:31 INFO Utils: Copying /tmp/tmp66i1z_jo/__livy__/Exports.jar to /tmp/spark-84b8c923-f37e-4f91-84ac-c9b200684dd6/userFiles-bf059b69-cf02-41c2-b56f-e80446205415/Exports.jar",
+        "20/07/17 17:33:32 INFO SparkContext: Added JAR file:/home/ahmed/.livy-sessions/044d309c-1386-4e2f-ab64-ab5dd7549a46/Exports.jar at spark://sylvanus:39453/jars/Exports.jar with timestamp 1595000012555",
+        "20/07/17 17:33:32 INFO RSCDriver: Received bypass job request 4d794bb4-9e2c-4bb2-b38f-363f34a75f8b",
+        "20/07/17 17:33:32 INFO SharedState: Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir ('file:/home/ahmed/Invenis/iss/spark-warehouse').",
+        "20/07/17 17:33:32 INFO SharedState: Warehouse path is 'file:/home/ahmed/Invenis/iss/spark-warehouse'.",
+        "20/07/17 17:33:33 INFO StateStoreCoordinatorRef: Registered StateStoreCoordinator endpoint"
+      ]
+    },
+    {
+      "id": 1,
+      "name": null,
+      "appId": null,
+      "owner": null,
+      "proxyUser": null,
+      "state": "idle",
+      "kind": "shared",
+      "appInfo": {
+        "driverLogUrl": null,
+        "sparkUiUrl": null
+      },
+      "log": [
+        "20/07/17 17:33:29 INFO SparkContext: Added JAR file:/home/ahmed/.livy-sessions/e0df07e8-c09d-42b5-995b-0274864ffa07/co.invenis.uvenix.iss.submissions.jar at spark://sylvanus:45235/jars/co.invenis.uvenix.iss.submissions.jar with timestamp 1595000009583",
+        "20/07/17 17:33:31 INFO RSCDriver: Received job request 31ea02ba-ff19-43d1-a04b-98b580167d5e",
+        "20/07/17 17:33:31 WARN SparkContext: Using an existing SparkContext; some configuration may not take effect.",
+        "20/07/17 17:33:31 INFO SparkContext: Added file /tmp/tmp8zt6miq5/__livy__/Exports.jar at file:/tmp/tmp8zt6miq5/__livy__/Exports.jar with timestamp 1595000011693",
+        "20/07/17 17:33:31 INFO Utils: Copying /tmp/tmp8zt6miq5/__livy__/Exports.jar to /tmp/spark-cbee7a20-2f92-427b-b8b0-c549f24e7ba9/userFiles-3a16f6a9-1a1f-45c9-a44c-2b8213eed4a1/Exports.jar",
+        "20/07/17 17:33:32 INFO SparkContext: Added JAR file:/home/ahmed/.livy-sessions/e0df07e8-c09d-42b5-995b-0274864ffa07/Exports.jar at spark://sylvanus:45235/jars/Exports.jar with timestamp 1595000012037",
+        "20/07/17 17:33:32 INFO RSCDriver: Received bypass job request 8e0f4d53-af0a-4b2f-9cb2-cc1f4e7eecba",
+        "20/07/17 17:33:32 INFO SharedState: Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir ('file:/home/ahmed/Invenis/iss/spark-warehouse').",
+        "20/07/17 17:33:32 INFO SharedState: Warehouse path is 'file:/home/ahmed/Invenis/iss/spark-warehouse'.",
+        "20/07/17 17:33:33 INFO StateStoreCoordinatorRef: Registered StateStoreCoordinator endpoint"
+      ]
+    },
+    {
+      "id": 2,
+      "name": null,
+      "appId": null,
+      "owner": null,
+      "proxyUser": null,
+      "state": "idle",
+      "kind": "shared",
+      "appInfo": {
+        "driverLogUrl": null,
+        "sparkUiUrl": null
+      },
+      "log": [
+        "20/07/17 17:33:29 INFO SparkContext: Added JAR file:/home/ahmed/.livy-sessions/7b8dc621-85f5-4c34-a257-a14770eead74/co.invenis.uvenix.iss.submissions.jar at spark://sylvanus:40193/jars/co.invenis.uvenix.iss.submissions.jar with timestamp 1595000009645",
+        "20/07/17 17:33:31 INFO RSCDriver: Received job request 09fa6050-f128-426e-9071-824f8bdabaab",
+        "20/07/17 17:33:31 WARN SparkContext: Using an existing SparkContext; some configuration may not take effect.",
+        "20/07/17 17:33:31 INFO SparkContext: Added file /tmp/tmpjlsaj81a/__livy__/Exports.jar at file:/tmp/tmpjlsaj81a/__livy__/Exports.jar with timestamp 1595000011839",
+        "20/07/17 17:33:31 INFO Utils: Copying /tmp/tmpjlsaj81a/__livy__/Exports.jar to /tmp/spark-06c15d93-f39a-40bf-a1d3-162e6a8c72b0/userFiles-0bc61edc-d4a3-4350-a391-71a7020de0bd/Exports.jar",
+        "20/07/17 17:33:32 INFO SparkContext: Added JAR file:/home/ahmed/.livy-sessions/7b8dc621-85f5-4c34-a257-a14770eead74/Exports.jar at spark://sylvanus:40193/jars/Exports.jar with timestamp 1595000012171",
+        "20/07/17 17:33:32 INFO RSCDriver: Received bypass job request 69728e3d-fbd2-46c2-be31-3d03fd96adfe",
+        "20/07/17 17:33:32 INFO SharedState: Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir ('file:/home/ahmed/Invenis/iss/spark-warehouse').",
+        "20/07/17 17:33:32 INFO SharedState: Warehouse path is 'file:/home/ahmed/Invenis/iss/spark-warehouse'.",
+        "20/07/17 17:33:33 INFO StateStoreCoordinatorRef: Registered StateStoreCoordinator endpoint"
+      ]
+    }
+  ]
+}
